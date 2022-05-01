@@ -1,1 +1,2 @@
-web gunicorn --pythonpath scr app:app
+web gunicorn --pythonpath scr app:warm-beach-59504
+
